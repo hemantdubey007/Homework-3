@@ -1,0 +1,16 @@
+header{
+    padding: 1rem 2rem;
+    width: 100%;
+}
+
+header>h1{
+    color: #bd2828;
+    font-size: 40px;
+    margin: 0;
+}
+
+header>p{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 5px 0;
+}
